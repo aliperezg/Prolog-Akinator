@@ -14,9 +14,7 @@ Implementado en SWI-Prolog con base de conocimiento generada desde CSV.
 ├── personajes.pl        # AUTO-GENERADO. NO EDITAR MANUALMENTE.
 ├── categorias.pl        # Valores válidos por atributo (ENUMS).
 ├── motor.pl             # Lógica de preguntas y adivinación
-├── main.pl              # Terminal de acceso,
-└── docs/
-    └── bitacora.md      # Registro de cambios y decisiones
+└── main.pl              # Terminal de acceso
 ```
 
 ---
