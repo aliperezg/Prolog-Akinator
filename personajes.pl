@@ -113,8 +113,8 @@ atributo(white_rabbit, genero, masculino).
 atributo(genie, especie, ser_magico).
 atributo(genie, es_villano, no).
 atributo(genie, es_protagonista, si).
-atributo(genie, color_pelo, ninguno).
-atributo(genie, pelo, sin_pelo).
+atributo(genie, color_pelo, negro).
+atributo(genie, pelo, largo).
 atributo(genie, es_magico, si).
 atributo(genie, color_vestimenta, azul).
 atributo(genie, vive_en, desierto).
@@ -156,8 +156,8 @@ atributo(pinocchio, es_protagonista, si).
 atributo(pinocchio, color_pelo, negro).
 atributo(pinocchio, pelo, corto).
 atributo(pinocchio, es_magico, no).
-atributo(pinocchio, color_vestimenta, azul).
-atributo(pinocchio, vive_en, otro).
+atributo(pinocchio, color_vestimenta, rojo).
+atributo(pinocchio, vive_en, ciudad).
 atributo(pinocchio, genero, masculino).
 
 atributo(jiminy_cricket, especie, insecto).
@@ -217,7 +217,7 @@ atributo(tiana, color_pelo, negro).
 atributo(tiana, pelo, largo).
 atributo(tiana, es_magico, no).
 atributo(tiana, color_vestimenta, verde).
-atributo(tiana, vive_en, otro).
+atributo(tiana, vive_en, ciudad).
 atributo(tiana, genero, femenino).
 
 atributo(ray, especie, insecto).
@@ -293,7 +293,7 @@ atributo(aurora, genero, femenino).
 atributo(fauna, especie, ser_magico).
 atributo(fauna, es_villano, no).
 atributo(fauna, es_protagonista, no).
-atributo(fauna, color_pelo, blanco).
+atributo(fauna, color_pelo, gris).
 atributo(fauna, pelo, corto).
 atributo(fauna, es_magico, si).
 atributo(fauna, color_vestimenta, verde).

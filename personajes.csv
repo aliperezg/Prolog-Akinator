@@ -10,17 +10,17 @@ jasmine,humano,no,si,negro,largo,no,verde,desierto,femenino
 alice,humano,no,si,rubio,largo,no,azul,otro,femenino
 cheshire_cat,animal,no,no,ninguno,sin_pelo,no,na,bosque,masculino
 white_rabbit,animal,no,no,blanco,corto,no,cafe,otro,masculino
-genie,ser_magico,no,si,ninguno,sin_pelo,si,azul,desierto,masculino
+genie,ser_magico,no,si,negro,largo,si,azul,desierto,masculino
 dutchess,animal,no,no,blanco,largo,no,na,ciudad,femenino
 omalley,animal,no,si,rojo,corto,no,na,ciudad,masculino
 marie,animal,no,si,blanco,largo,no,rosa,ciudad,femenino
-pinocchio,objeto,no,si,negro,corto,no,azul,otro,masculino
+pinocchio,objeto,no,si,negro,corto,no,rojo,ciudad,masculino
 jiminy_cricket,insecto,no,si,negro,corto,no,negro,otro,masculino
 pocahontas,humano,no,si,negro,largo,no,cafe,bosque,femenino
 john_smith,humano,no,si,rubio,corto,no,azul,bosque,masculino
 tinkerbell,ser_magico,no,si,rubio,corto,si,verde,bosque,femenino
 prince_naveen,humano,no,si,negro,corto,no,verde,otro,masculino
-tiana,humano,no,si,negro,largo,no,verde,otro,femenino
+tiana,humano,no,si,negro,largo,no,verde,ciudad,femenino
 ray,insecto,no,no,ninguno,sin_pelo,no,na,bosque,masculino
 louis,animal,no,no,ninguno,sin_pelo,no,na,pantano,masculino
 robin_hood,animal,no,si,rojo,corto,no,verde,bosque,masculino
@@ -28,4 +28,4 @@ maid_marian,animal,no,si,rojo,largo,no,morado,bosque,femenino
 little_john,animal,no,si,cafe,corto,no,verde,bosque,masculino
 prince_phillip,humano,no,si,negro,corto,no,negro,castillo,masculino
 aurora,humano,no,si,rubio,largo,no,rosa,castillo,femenino
-fauna,ser_magico,no,no,blanco,corto,si,verde,castillo,femenino
+fauna,ser_magico,no,no,gris,corto,si,verde,castillo,femenino
