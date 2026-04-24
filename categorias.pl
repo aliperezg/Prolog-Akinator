@@ -45,6 +45,7 @@ valor_valido(vive_en,bosque).
 valor_valido(vive_en,mar).
 valor_valido(vive_en,ciudad).
 valor_valido(vive_en,desierto).
+valor_valido(vive_en,pantano).
 valor_valido(vive_en,otro).
 
 valor_valido(genero,masculino).

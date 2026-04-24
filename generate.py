@@ -51,6 +51,7 @@ VALID = {
         "mar", 
         "ciudad", 
         "desierto", 
+        "pantano",
         "otro"
         },
 
