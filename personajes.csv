@@ -1,4 +1,4 @@
-nombre,especie,es_villano,es_protagonista,color_pelo,pelo_largo,es_magico,color_vestimenta,vive_en,genero
-mickey_mouse,animal,no,si,negro,no,no,rojo,ciudad,masculino
-minnie_mouse,animal,no,si,negro,si,no,rosa,ciudad,femenino
-daisy_duck,animal,no,si,ninguno,si,no,morado,ciudad,femenino
+nombre,especie,es_villano,es_protagonista,color_pelo,pelo,es_magico,color_vestimenta,vive_en,genero
+mickey_mouse,animal,no,si,negro,corto,no,rojo,ciudad,masculino
+minnie_mouse,animal,no,si,negro,corto,no,rosa,ciudad,femenino
+daisy_duck,animal,no,si,ninguno,sin_pelo,no,morado,ciudad,femenino
