@@ -4,6 +4,8 @@
 valor_valido(especie,humano).
 valor_valido(especie,animal).
 valor_valido(especie,objeto).
+valor_valido(especie,insecto).
+valor_valido(especie,ser_magico).
 
 valor_valido(es_villano,si).
 valor_valido(es_villano,no).
@@ -18,8 +20,9 @@ valor_valido(color_pelo,cafe).
 valor_valido(color_pelo,blanco).
 valor_valido(color_pelo,ninguno).
 
-valor_valido(pelo_largo,si).
-valor_valido(pelo_largo,no).
+valor_valido(pelo,largo).
+valor_valido(pelo,corto).
+valor_valido(pelo,sin_pelo).
 
 valor_valido(es_magico, si).
 valor_valido(es_magico, no).
@@ -53,7 +56,7 @@ atributo(especie).
 atributo(es_villano).
 atributo(es_protagonista).
 atributo(color_pelo).
-atributo(pelo_largo).
+atributo(pelo).
 atributo(es_magico).
 atributo(color_vestimenta).
 atributo(vive_en).
