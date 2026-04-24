@@ -52,9 +52,9 @@ atributo(goofy, genero, masculino).
 
 atributo(pluto, especie, animal).
 atributo(pluto, es_villano, no).
-atributo(pluto, es_protagonista, si).
-atributo(pluto, color_pelo, ninguno).
-atributo(pluto, pelo, sin_pelo).
+atributo(pluto, es_protagonista, no).
+atributo(pluto, color_pelo, rubio).
+atributo(pluto, pelo, corto).
 atributo(pluto, es_magico, no).
 atributo(pluto, color_vestimenta, na).
 atributo(pluto, vive_en, ciudad).
@@ -66,7 +66,7 @@ atributo(aladdin, es_protagonista, si).
 atributo(aladdin, color_pelo, negro).
 atributo(aladdin, pelo, corto).
 atributo(aladdin, es_magico, no).
-atributo(aladdin, color_vestimenta, azul).
+atributo(aladdin, color_vestimenta, blanco).
 atributo(aladdin, vive_en, desierto).
 atributo(aladdin, genero, masculino).
 
@@ -93,9 +93,9 @@ atributo(alice, genero, femenino).
 atributo(cheshire_cat, especie, animal).
 atributo(cheshire_cat, es_villano, no).
 atributo(cheshire_cat, es_protagonista, no).
-atributo(cheshire_cat, color_pelo, ninguno).
-atributo(cheshire_cat, pelo, sin_pelo).
-atributo(cheshire_cat, es_magico, no).
+atributo(cheshire_cat, color_pelo, morado).
+atributo(cheshire_cat, pelo, corto).
+atributo(cheshire_cat, es_magico, si).
 atributo(cheshire_cat, color_vestimenta, na).
 atributo(cheshire_cat, vive_en, bosque).
 atributo(cheshire_cat, genero, masculino).
@@ -124,7 +124,7 @@ atributo(dutchess, especie, animal).
 atributo(dutchess, es_villano, no).
 atributo(dutchess, es_protagonista, no).
 atributo(dutchess, color_pelo, blanco).
-atributo(dutchess, pelo, largo).
+atributo(dutchess, pelo, corto).
 atributo(dutchess, es_magico, no).
 atributo(dutchess, color_vestimenta, na).
 atributo(dutchess, vive_en, ciudad).
@@ -133,7 +133,7 @@ atributo(dutchess, genero, femenino).
 atributo(omalley, especie, animal).
 atributo(omalley, es_villano, no).
 atributo(omalley, es_protagonista, si).
-atributo(omalley, color_pelo, rojo).
+atributo(omalley, color_pelo, naranja).
 atributo(omalley, pelo, corto).
 atributo(omalley, es_magico, no).
 atributo(omalley, color_vestimenta, na).
@@ -144,7 +144,7 @@ atributo(marie, especie, animal).
 atributo(marie, es_villano, no).
 atributo(marie, es_protagonista, si).
 atributo(marie, color_pelo, blanco).
-atributo(marie, pelo, largo).
+atributo(marie, pelo, corto).
 atributo(marie, es_magico, no).
 atributo(marie, color_vestimenta, rosa).
 atributo(marie, vive_en, ciudad).
@@ -155,7 +155,7 @@ atributo(pinocchio, es_villano, no).
 atributo(pinocchio, es_protagonista, si).
 atributo(pinocchio, color_pelo, negro).
 atributo(pinocchio, pelo, corto).
-atributo(pinocchio, es_magico, no).
+atributo(pinocchio, es_magico, si).
 atributo(pinocchio, color_vestimenta, rojo).
 atributo(pinocchio, vive_en, ciudad).
 atributo(pinocchio, genero, masculino).
@@ -223,11 +223,11 @@ atributo(tiana, genero, femenino).
 atributo(ray, especie, insecto).
 atributo(ray, es_villano, no).
 atributo(ray, es_protagonista, no).
-atributo(ray, color_pelo, ninguno).
-atributo(ray, pelo, sin_pelo).
+atributo(ray, color_pelo, negro).
+atributo(ray, pelo, corto).
 atributo(ray, es_magico, no).
 atributo(ray, color_vestimenta, na).
-atributo(ray, vive_en, bosque).
+atributo(ray, vive_en, pantano).
 atributo(ray, genero, masculino).
 
 atributo(louis, especie, animal).
@@ -254,7 +254,7 @@ atributo(maid_marian, especie, animal).
 atributo(maid_marian, es_villano, no).
 atributo(maid_marian, es_protagonista, si).
 atributo(maid_marian, color_pelo, rojo).
-atributo(maid_marian, pelo, largo).
+atributo(maid_marian, pelo, corto).
 atributo(maid_marian, es_magico, no).
 atributo(maid_marian, color_vestimenta, morado).
 atributo(maid_marian, vive_en, bosque).
@@ -273,7 +273,7 @@ atributo(little_john, genero, masculino).
 atributo(prince_phillip, especie, humano).
 atributo(prince_phillip, es_villano, no).
 atributo(prince_phillip, es_protagonista, si).
-atributo(prince_phillip, color_pelo, negro).
+atributo(prince_phillip, color_pelo, cafe).
 atributo(prince_phillip, pelo, corto).
 atributo(prince_phillip, es_magico, no).
 atributo(prince_phillip, color_vestimenta, negro).
