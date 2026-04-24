@@ -26,6 +26,8 @@ VALID = {
         "rubio", 
         "rojo", 
         "cafe", 
+        "morado",
+        "naranja",
         "blanco",
         "gris", 
         "ninguno"

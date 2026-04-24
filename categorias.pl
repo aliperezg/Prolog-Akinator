@@ -16,6 +16,8 @@ valor_valido(es_protagonista, no).
 valor_valido(color_pelo,negro).
 valor_valido(color_pelo,rubio).
 valor_valido(color_pelo,rojo).
+valor_valido(color_pelo,morado).
+valor_valido(color_pelo,naranja).
 valor_valido(color_pelo,cafe).
 valor_valido(color_pelo,blanco).
 valor_valido(color_pelo,gris).
