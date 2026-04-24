@@ -1,4 +1,4 @@
-% categorias.pl — Valores válidos por atributo (ENUMs)
+% categorias.pl - Valores válidos por atributo (ENUMs)
 % SST
 
 valor_valido(especie,humano).

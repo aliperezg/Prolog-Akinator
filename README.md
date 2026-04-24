@@ -1,4 +1,4 @@
-# Akinator Disney — Prolog
+# Akinator Disney - Prolog
 
 Sistema experto que adivina personajes Disney haciendo preguntas de sí/no.
 Implementado en SWI-Prolog con base de conocimiento generada desde CSV.
@@ -98,4 +98,4 @@ swipl main.pl
 - Nombres de personajes en `snake_case`, sin acentos, sin espacios
 - Todos los valores en minúsculas
 - Si un atributo no aplica → `na`
-- No dejar campos vacíos — el validador los rechaza
+- No dejar campos vacíos - el validador los rechaza

@@ -1,4 +1,4 @@
-% personajes.pl — AUTO-GENERADO por generate.py. NO EDITAR.
+% personajes.pl - AUTO-GENERADO por generate.py. NO EDITAR.
 
 atributo(mickey_mouse, especie, animal).
 atributo(mickey_mouse, es_villano, no).
