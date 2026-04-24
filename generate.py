@@ -6,7 +6,9 @@ VALID = {
     "especie": {
         "humano", 
         "animal", 
-        "objeto"
+        "objeto",
+        "insecto",
+        "ser_magico"
         },
 
     "es_villano": {
@@ -27,9 +29,10 @@ VALID = {
         "blanco", 
         "ninguno"
         },
-    "pelo_largo": {
-        "si", 
-        "no"
+    "pelo": {
+        "largo",
+        "corto",
+        "sin_pelo"
         },
 
     "es_magico": {
