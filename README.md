@@ -58,17 +58,17 @@ git commit                ← historial = bitácora
 
 ## Atributos actuales
 
-| Atributo          | Valores posibles                                      |
-|-------------------|-------------------------------------------------------|
-| especie           | humano, animal, objeto                                |
-| es_villano        | si, no                                                |
-| es_protagonista   | si, no                                                |
-| color_pelo        | negro, rubio, rojo, cafe, blanco, ninguno             |
-| pelo_largo        | si, no                                                |
-| es_magico         | si, no                                                |
+| Atributo          | Valores posibles                                                              |
+|-------------------|-------------------------------------------------------------------------------|
+| especie           | humano, animal, objeto, insecto, ser_magico                                   |
+| es_villano        | si, no                                                                        |
+| es_protagonista   | si, no                                                                        |
+| color_pelo        | negro, rubio, rojo, cafe, blanco, ninguno                                     |
+| pelo              | largo, corto, sin_pelo                                                        |
+| es_magico         | si, no                                                                        |
 | color_vestimenta  | rojo, azul, verde, amarillo, negro, blanco, morado, naranja, rosa, cafe, gris, na |
-| vive_en           | castillo, bosque, mar, ciudad, desierto, otro         |
-| genero            | masculino, femenino, na                               |
+| vive_en           | castillo, bosque, mar, ciudad, desierto, pantano, otro                        |
+| genero            | masculino, femenino, na                                                       |
 
 `na` = no aplica (ej. un animal u objeto)
 
