@@ -26,7 +26,8 @@ VALID = {
         "rubio", 
         "rojo", 
         "cafe", 
-        "blanco", 
+        "blanco",
+        "gris", 
         "ninguno"
         },
     "pelo": {
