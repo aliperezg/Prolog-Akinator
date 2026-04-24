@@ -112,7 +112,7 @@ def validar(rows):
 
 def generar_pl(rows, out_path):
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write("% personajes.pl — AUTO-GENERADO por generate.py. NO EDITAR.\n\n")
+        f.write("% personajes.pl - AUTO-GENERADO por generate.py. NO EDITAR.\n\n")
         for row in rows:
             nombre = row["nombre"].strip()
             for attr in VALID:
@@ -136,7 +136,7 @@ def main():
     generar_pl(rows, "personajes.pl")
     print(f"✓ personajes.pl generado con {len(rows)} personaje(s).")
     if warnings:
-        print(f"  {len(warnings)} advertencia(s) — revisar colisiones.")
+        print(f"  {len(warnings)} advertencia(s) - revisar colisiones.")
 
 if __name__ == "__main__":
     main()
