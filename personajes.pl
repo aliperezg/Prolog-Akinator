@@ -56,7 +56,7 @@ atributo(pluto, es_protagonista, no).
 atributo(pluto, color_pelo, rubio).
 atributo(pluto, pelo, corto).
 atributo(pluto, es_magico, no).
-atributo(pluto, color_vestimenta, na).
+atributo(pluto, color_vestimenta, verde).
 atributo(pluto, vive_en, ciudad).
 atributo(pluto, genero, masculino).
 
