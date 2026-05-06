@@ -65,3 +65,14 @@ atributo(es_magico).
 atributo(color_vestimenta).
 atributo(vive_en).
 atributo(genero).
+
+% Plantillas de preguntas (el {valor} se reemplaza dinámicamente)
+plantilla_pregunta(especie, "¿Tu personaje es {valor}?").
+plantilla_pregunta(es_villano, "¿Tu personaje es villano?").
+plantilla_pregunta(es_protagonista, "¿Tu personaje es protagonista?").
+plantilla_pregunta(color_pelo, "¿Tu personaje tiene el pelo {valor}?").
+plantilla_pregunta(pelo, "¿Tu personaje tiene el pelo {valor}?").
+plantilla_pregunta(es_magico, "¿Tu personaje es mágico?").
+plantilla_pregunta(color_vestimenta, "¿Tu personaje viste de {valor}?").
+plantilla_pregunta(vive_en, "¿Tu personaje vive en {valor}?").
+plantilla_pregunta(genero, "¿Tu personaje es {valor}?").
