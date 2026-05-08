@@ -21,6 +21,7 @@ valor_valido(color_pelo,naranja).
 valor_valido(color_pelo,cafe).
 valor_valido(color_pelo,blanco).
 valor_valido(color_pelo,gris).
+valor_valido(color_pelo,azul).
 valor_valido(color_pelo,ninguno).
 
 valor_valido(pelo,largo).
