@@ -29,7 +29,8 @@ VALID = {
         "morado",
         "naranja",
         "blanco",
-        "gris", 
+        "gris",
+        "azul",
         "ninguno"
         },
     "pelo": {
