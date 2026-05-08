@@ -40,10 +40,16 @@ preguntar( [] ) :-
 
 % Construye la pregunta interpolando {valor} en la plantilla
 construir_pregunta(Attr, Val, Pregunta) :-
-    (   plantilla_pregunta(Attr, Plantilla)
-    ->  atom_string(Val, ValStr),
-        atomic_list_concat(Partes, '{valor}', Plantilla),
-        atomic_list_concat(Partes, ValStr, Pregunta)
+    (   Val == na, plantilla_na(Attr, Pregunta)
+    ->  true
+    ;   plantilla_pregunta(Attr, Plantilla),
+        (   sub_string(Plantilla, _, _, _, "{valor}")
+        ->  atom_string(Val, ValStr),
+            atomic_list_concat(Partes, '{valor}', Plantilla),
+            atomic_list_concat(Partes, ValStr, Pregunta)
+        ;   Pregunta = Plantilla
+        )
+    ->  true
     ;   atomic_list_concat(['¿Tu personaje tiene ', Attr, ' = ', Val, '?'], Pregunta)
     ).
 

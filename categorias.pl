@@ -83,3 +83,8 @@ plantilla_pregunta(color_vestimenta, "¿Tu personaje viste de {valor}?").
 plantilla_pregunta(vive_en, "¿Tu personaje vive en {valor}?").
 plantilla_pregunta(genero, "¿Tu personaje es {valor}?").
 plantilla_pregunta(habla, "¿Tu personaje habla?").
+
+% Plantillas para cuando el valor es 'na' (no aplica)
+plantilla_na(color_vestimenta, "¿Tu personaje no usa ropa?").
+plantilla_na(genero, "¿Tu personaje no tiene género definido?").
+plantilla_na(color_pelo, "¿Tu personaje no tiene pelo?").
