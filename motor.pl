@@ -47,7 +47,6 @@ construir_pregunta(Attr, Val, Pregunta) :-
     ;   atomic_list_concat(['¿Tu personaje tiene ', Attr, ' = ', Val, '?'], Pregunta)
     ).
 
-% Valor más frecuente de Attr entre los candidatos
 valor_mas_frecuente(Attr, Candidatos, ValFrec) :-
     findall(V, (member(P, Candidatos), atributo(P, Attr, V)), Vals),
     msort(Vals, Sorted),
