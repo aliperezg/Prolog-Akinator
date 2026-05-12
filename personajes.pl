@@ -300,3 +300,603 @@ atributo(fauna, color_vestimenta, verde).
 atributo(fauna, vive_en, castillo).
 atributo(fauna, genero, femenino).
 
+atributo(flora, especie, ser_magico).
+atributo(flora, es_villano, no).
+atributo(flora, es_protagonista, no).
+atributo(flora, color_pelo, gris).
+atributo(flora, pelo, corto).
+atributo(flora, es_magico, si).
+atributo(flora, color_vestimenta, rojo).
+atributo(flora, vive_en, bosque).
+atributo(flora, genero, femenino).
+
+atributo(merriweather, especie, ser_magico).
+atributo(merriweather, es_villano, no).
+atributo(merriweather, es_protagonista, no).
+atributo(merriweather, color_pelo, negro).
+atributo(merriweather, pelo, corto).
+atributo(merriweather, es_magico, si).
+atributo(merriweather, color_vestimenta, azul).
+atributo(merriweather, vive_en, bosque).
+atributo(merriweather, genero, femenino).
+
+atributo(snow_white, especie, humano).
+atributo(snow_white, es_villano, no).
+atributo(snow_white, es_protagonista, si).
+atributo(snow_white, color_pelo, negro).
+atributo(snow_white, pelo, corto).
+atributo(snow_white, es_magico, no).
+atributo(snow_white, color_vestimenta, amarillo).
+atributo(snow_white, vive_en, bosque).
+atributo(snow_white, genero, femenino).
+
+atributo(doc, especie, ser_magico).
+atributo(doc, es_villano, no).
+atributo(doc, es_protagonista, no).
+atributo(doc, color_pelo, blanco).
+atributo(doc, pelo, corto).
+atributo(doc, es_magico, no).
+atributo(doc, color_vestimenta, naranja).
+atributo(doc, vive_en, bosque).
+atributo(doc, genero, masculino).
+
+atributo(dopey, especie, ser_magico).
+atributo(dopey, es_villano, no).
+atributo(dopey, es_protagonista, no).
+atributo(dopey, color_pelo, blanco).
+atributo(dopey, pelo, corto).
+atributo(dopey, es_magico, no).
+atributo(dopey, color_vestimenta, verde).
+atributo(dopey, vive_en, bosque).
+atributo(dopey, genero, masculino).
+
+atributo(sleepy, especie, ser_magico).
+atributo(sleepy, es_villano, no).
+atributo(sleepy, es_protagonista, no).
+atributo(sleepy, color_pelo, blanco).
+atributo(sleepy, pelo, corto).
+atributo(sleepy, es_magico, no).
+atributo(sleepy, color_vestimenta, cafe).
+atributo(sleepy, vive_en, bosque).
+atributo(sleepy, genero, masculino).
+
+atributo(sneezy, especie, ser_magico).
+atributo(sneezy, es_villano, no).
+atributo(sneezy, es_protagonista, no).
+atributo(sneezy, color_pelo, blanco).
+atributo(sneezy, pelo, corto).
+atributo(sneezy, es_magico, no).
+atributo(sneezy, color_vestimenta, amarillo).
+atributo(sneezy, vive_en, bosque).
+atributo(sneezy, genero, masculino).
+
+atributo(happy, especie, ser_magico).
+atributo(happy, es_villano, no).
+atributo(happy, es_protagonista, no).
+atributo(happy, color_pelo, blanco).
+atributo(happy, pelo, corto).
+atributo(happy, es_magico, no).
+atributo(happy, color_vestimenta, azul).
+atributo(happy, vive_en, bosque).
+atributo(happy, genero, masculino).
+
+atributo(bashful, especie, ser_magico).
+atributo(bashful, es_villano, no).
+atributo(bashful, es_protagonista, no).
+atributo(bashful, color_pelo, blanco).
+atributo(bashful, pelo, largo).
+atributo(bashful, es_magico, no).
+atributo(bashful, color_vestimenta, cafe).
+atributo(bashful, vive_en, bosque).
+atributo(bashful, genero, masculino).
+
+atributo(grumpy, especie, ser_magico).
+atributo(grumpy, es_villano, no).
+atributo(grumpy, es_protagonista, no).
+atributo(grumpy, color_pelo, blanco).
+atributo(grumpy, pelo, corto).
+atributo(grumpy, es_magico, no).
+atributo(grumpy, color_vestimenta, rojo).
+atributo(grumpy, vive_en, bosque).
+atributo(grumpy, genero, masculino).
+
+atributo(rapunzel, especie, humano).
+atributo(rapunzel, es_villano, no).
+atributo(rapunzel, es_protagonista, si).
+atributo(rapunzel, color_pelo, rubio).
+atributo(rapunzel, pelo, largo).
+atributo(rapunzel, es_magico, si).
+atributo(rapunzel, color_vestimenta, morado).
+atributo(rapunzel, vive_en, bosque).
+atributo(rapunzel, genero, femenino).
+
+atributo(eugene, especie, humano).
+atributo(eugene, es_villano, no).
+atributo(eugene, es_protagonista, no).
+atributo(eugene, color_pelo, cafe).
+atributo(eugene, pelo, corto).
+atributo(eugene, es_magico, no).
+atributo(eugene, color_vestimenta, azul).
+atributo(eugene, vive_en, ciudad).
+atributo(eugene, genero, masculino).
+
+atributo(tarzan, especie, humano).
+atributo(tarzan, es_villano, no).
+atributo(tarzan, es_protagonista, si).
+atributo(tarzan, color_pelo, cafe).
+atributo(tarzan, pelo, largo).
+atributo(tarzan, es_magico, no).
+atributo(tarzan, color_vestimenta, cafe).
+atributo(tarzan, vive_en, bosque).
+atributo(tarzan, genero, masculino).
+
+atributo(jane, especie, humano).
+atributo(jane, es_villano, no).
+atributo(jane, es_protagonista, no).
+atributo(jane, color_pelo, cafe).
+atributo(jane, pelo, largo).
+atributo(jane, es_magico, no).
+atributo(jane, color_vestimenta, amarillo).
+atributo(jane, vive_en, ciudad).
+atributo(jane, genero, femenino).
+
+atributo(woody, especie, objeto).
+atributo(woody, es_villano, no).
+atributo(woody, es_protagonista, si).
+atributo(woody, color_pelo, cafe).
+atributo(woody, pelo, corto).
+atributo(woody, es_magico, no).
+atributo(woody, color_vestimenta, amarillo).
+atributo(woody, vive_en, ciudad).
+atributo(woody, genero, masculino).
+
+atributo(dash, especie, humano).
+atributo(dash, es_villano, no).
+atributo(dash, es_protagonista, si).
+atributo(dash, color_pelo, rubio).
+atributo(dash, pelo, corto).
+atributo(dash, es_magico, si).
+atributo(dash, color_vestimenta, rojo).
+atributo(dash, vive_en, ciudad).
+atributo(dash, genero, masculino).
+
+atributo(jack_jack, especie, humano).
+atributo(jack_jack, es_villano, no).
+atributo(jack_jack, es_protagonista, no).
+atributo(jack_jack, color_pelo, rubio).
+atributo(jack_jack, pelo, corto).
+atributo(jack_jack, es_magico, si).
+atributo(jack_jack, color_vestimenta, rojo).
+atributo(jack_jack, vive_en, ciudad).
+atributo(jack_jack, genero, masculino).
+
+atributo(mowgli, especie, humano).
+atributo(mowgli, es_villano, no).
+atributo(mowgli, es_protagonista, si).
+atributo(mowgli, color_pelo, negro).
+atributo(mowgli, pelo, corto).
+atributo(mowgli, es_magico, no).
+atributo(mowgli, color_vestimenta, rojo).
+atributo(mowgli, vive_en, bosque).
+atributo(mowgli, genero, masculino).
+
+atributo(baloo, especie, animal).
+atributo(baloo, es_villano, no).
+atributo(baloo, es_protagonista, si).
+atributo(baloo, color_pelo, gris).
+atributo(baloo, pelo, corto).
+atributo(baloo, es_magico, no).
+atributo(baloo, color_vestimenta, na).
+atributo(baloo, vive_en, bosque).
+atributo(baloo, genero, masculino).
+
+atributo(bagheera, especie, animal).
+atributo(bagheera, es_villano, no).
+atributo(bagheera, es_protagonista, no).
+atributo(bagheera, color_pelo, negro).
+atributo(bagheera, pelo, corto).
+atributo(bagheera, es_magico, no).
+atributo(bagheera, color_vestimenta, na).
+atributo(bagheera, vive_en, bosque).
+atributo(bagheera, genero, masculino).
+
+atributo(tramp, especie, animal).
+atributo(tramp, es_villano, no).
+atributo(tramp, es_protagonista, si).
+atributo(tramp, color_pelo, gris).
+atributo(tramp, pelo, corto).
+atributo(tramp, es_magico, no).
+atributo(tramp, color_vestimenta, rojo).
+atributo(tramp, vive_en, ciudad).
+atributo(tramp, genero, masculino).
+
+atributo(lady, especie, animal).
+atributo(lady, es_villano, no).
+atributo(lady, es_protagonista, si).
+atributo(lady, color_pelo, naranja).
+atributo(lady, pelo, largo).
+atributo(lady, es_magico, no).
+atributo(lady, color_vestimenta, azul).
+atributo(lady, vive_en, ciudad).
+atributo(lady, genero, femenino).
+
+atributo(lilo, especie, humano).
+atributo(lilo, es_villano, no).
+atributo(lilo, es_protagonista, si).
+atributo(lilo, color_pelo, negro).
+atributo(lilo, pelo, largo).
+atributo(lilo, es_magico, no).
+atributo(lilo, color_vestimenta, rojo).
+atributo(lilo, vive_en, ciudad).
+atributo(lilo, genero, femenino).
+
+atributo(stitch, especie, animal).
+atributo(stitch, es_villano, no).
+atributo(stitch, es_protagonista, si).
+atributo(stitch, color_pelo, azul).
+atributo(stitch, pelo, corto).
+atributo(stitch, es_magico, no).
+atributo(stitch, color_vestimenta, na).
+atributo(stitch, vive_en, otro).
+atributo(stitch, genero, masculino).
+
+atributo(simba, especie, animal).
+atributo(simba, es_villano, no).
+atributo(simba, es_protagonista, si).
+atributo(simba, color_pelo, rubio).
+atributo(simba, pelo, corto).
+atributo(simba, es_magico, no).
+atributo(simba, color_vestimenta, na).
+atributo(simba, vive_en, desierto).
+atributo(simba, genero, masculino).
+
+atributo(nala, especie, animal).
+atributo(nala, es_villano, no).
+atributo(nala, es_protagonista, no).
+atributo(nala, color_pelo, rubio).
+atributo(nala, pelo, corto).
+atributo(nala, es_magico, no).
+atributo(nala, color_vestimenta, na).
+atributo(nala, vive_en, desierto).
+atributo(nala, genero, masculino).
+
+atributo(timon, especie, animal).
+atributo(timon, es_villano, no).
+atributo(timon, es_protagonista, no).
+atributo(timon, color_pelo, naranja).
+atributo(timon, pelo, corto).
+atributo(timon, es_magico, no).
+atributo(timon, color_vestimenta, na).
+atributo(timon, vive_en, desierto).
+atributo(timon, genero, masculino).
+
+atributo(pumbaa, especie, animal).
+atributo(pumbaa, es_villano, no).
+atributo(pumbaa, es_protagonista, no).
+atributo(pumbaa, color_pelo, rojo).
+atributo(pumbaa, pelo, corto).
+atributo(pumbaa, es_magico, no).
+atributo(pumbaa, color_vestimenta, na).
+atributo(pumbaa, vive_en, desierto).
+atributo(pumbaa, genero, masculino).
+
+atributo(rafiki, especie, animal).
+atributo(rafiki, es_villano, no).
+atributo(rafiki, es_protagonista, no).
+atributo(rafiki, color_pelo, gris).
+atributo(rafiki, pelo, corto).
+atributo(rafiki, es_magico, no).
+atributo(rafiki, color_vestimenta, na).
+atributo(rafiki, vive_en, desierto).
+atributo(rafiki, genero, masculino).
+
+atributo(zazu, especie, animal).
+atributo(zazu, es_villano, no).
+atributo(zazu, es_protagonista, no).
+atributo(zazu, color_pelo, azul).
+atributo(zazu, pelo, corto).
+atributo(zazu, es_magico, no).
+atributo(zazu, color_vestimenta, na).
+atributo(zazu, vive_en, desierto).
+atributo(zazu, genero, masculino).
+
+atributo(ariel, especie, humano).
+atributo(ariel, es_villano, no).
+atributo(ariel, es_protagonista, si).
+atributo(ariel, color_pelo, rojo).
+atributo(ariel, pelo, largo).
+atributo(ariel, es_magico, no).
+atributo(ariel, color_vestimenta, rosa).
+atributo(ariel, vive_en, castillo).
+atributo(ariel, genero, femenino).
+
+atributo(eric, especie, humano).
+atributo(eric, es_villano, no).
+atributo(eric, es_protagonista, si).
+atributo(eric, color_pelo, negro).
+atributo(eric, pelo, corto).
+atributo(eric, es_magico, no).
+atributo(eric, color_vestimenta, blanco).
+atributo(eric, vive_en, castillo).
+atributo(eric, genero, masculino).
+
+atributo(scuttle, especie, animal).
+atributo(scuttle, es_villano, no).
+atributo(scuttle, es_protagonista, no).
+atributo(scuttle, color_pelo, blanco).
+atributo(scuttle, pelo, corto).
+atributo(scuttle, es_magico, no).
+atributo(scuttle, color_vestimenta, na).
+atributo(scuttle, vive_en, oceano).
+atributo(scuttle, genero, masculino).
+
+atributo(flounder, especie, animal).
+atributo(flounder, es_villano, no).
+atributo(flounder, es_protagonista, no).
+atributo(flounder, color_pelo, azul).
+atributo(flounder, pelo, corto).
+atributo(flounder, es_magico, no).
+atributo(flounder, color_vestimenta, amarillo).
+atributo(flounder, vive_en, oceano).
+atributo(flounder, genero, masculino).
+
+atributo(sebastian, especie, animal).
+atributo(sebastian, es_villano, no).
+atributo(sebastian, es_protagonista, no).
+atributo(sebastian, color_pelo, rojo).
+atributo(sebastian, pelo, corto).
+atributo(sebastian, es_magico, no).
+atributo(sebastian, color_vestimenta, rojo).
+atributo(sebastian, vive_en, oceano).
+atributo(sebastian, genero, masculino).
+
+atributo(boo, especie, humano).
+atributo(boo, es_villano, no).
+atributo(boo, es_protagonista, si).
+atributo(boo, color_pelo, negro).
+atributo(boo, pelo, corto).
+atributo(boo, es_magico, no).
+atributo(boo, color_vestimenta, morado).
+atributo(boo, vive_en, otro).
+atributo(boo, genero, femenino).
+
+atributo(mike, especie, animal).
+atributo(mike, es_villano, no).
+atributo(mike, es_protagonista, si).
+atributo(mike, color_pelo, ninguno).
+atributo(mike, pelo, sin_pelo).
+atributo(mike, es_magico, no).
+atributo(mike, color_vestimenta, verde).
+atributo(mike, vive_en, otro).
+atributo(mike, genero, masculino).
+
+atributo(sully, especie, animal).
+atributo(sully, es_villano, no).
+atributo(sully, es_protagonista, si).
+atributo(sully, color_pelo, ninguno).
+atributo(sully, pelo, corto).
+atributo(sully, es_magico, no).
+atributo(sully, color_vestimenta, azul).
+atributo(sully, vive_en, otro).
+atributo(sully, genero, masculino).
+
+atributo(mulan, especie, humano).
+atributo(mulan, es_villano, no).
+atributo(mulan, es_protagonista, si).
+atributo(mulan, color_pelo, negro).
+atributo(mulan, pelo, largo).
+atributo(mulan, es_magico, no).
+atributo(mulan, color_vestimenta, rosa).
+atributo(mulan, vive_en, ciudad).
+atributo(mulan, genero, femenino).
+
+atributo(shang, especie, humano).
+atributo(shang, es_villano, no).
+atributo(shang, es_protagonista, si).
+atributo(shang, color_pelo, negro).
+atributo(shang, pelo, corto).
+atributo(shang, es_magico, no).
+atributo(shang, color_vestimenta, cafe).
+atributo(shang, vive_en, otro).
+atributo(shang, genero, masculino).
+
+atributo(mushu, especie, ser_magico).
+atributo(mushu, es_villano, no).
+atributo(mushu, es_protagonista, si).
+atributo(mushu, color_pelo, ninguno).
+atributo(mushu, pelo, sin_pelo).
+atributo(mushu, es_magico, si).
+atributo(mushu, color_vestimenta, rojo).
+atributo(mushu, vive_en, otro).
+atributo(mushu, genero, masculino).
+
+atributo(john, especie, humano).
+atributo(john, es_villano, no).
+atributo(john, es_protagonista, no).
+atributo(john, color_pelo, cafe).
+atributo(john, pelo, corto).
+atributo(john, es_magico, no).
+atributo(john, color_vestimenta, blanco).
+atributo(john, vive_en, ciudad).
+atributo(john, genero, masculino).
+
+atributo(michael, especie, humano).
+atributo(michael, es_villano, no).
+atributo(michael, es_protagonista, no).
+atributo(michael, color_pelo, naranja).
+atributo(michael, pelo, corto).
+atributo(michael, es_magico, no).
+atributo(michael, color_vestimenta, rosa).
+atributo(michael, vive_en, ciudad).
+atributo(michael, genero, masculino).
+
+atributo(peter_pan, especie, humano).
+atributo(peter_pan, es_villano, no).
+atributo(peter_pan, es_protagonista, si).
+atributo(peter_pan, color_pelo, rojo).
+atributo(peter_pan, pelo, corto).
+atributo(peter_pan, es_magico, si).
+atributo(peter_pan, color_vestimenta, verde).
+atributo(peter_pan, vive_en, otro).
+atributo(peter_pan, genero, masculino).
+
+atributo(wendy, especie, humano).
+atributo(wendy, es_villano, no).
+atributo(wendy, es_protagonista, si).
+atributo(wendy, color_pelo, cafe).
+atributo(wendy, pelo, largo).
+atributo(wendy, es_magico, no).
+atributo(wendy, color_vestimenta, azul).
+atributo(wendy, vive_en, ciudad).
+atributo(wendy, genero, femenino).
+
+atributo(mater, especie, objeto).
+atributo(mater, es_villano, no).
+atributo(mater, es_protagonista, si).
+atributo(mater, color_pelo, ninguno).
+atributo(mater, pelo, sin_pelo).
+atributo(mater, es_magico, no).
+atributo(mater, color_vestimenta, cafe).
+atributo(mater, vive_en, otro).
+atributo(mater, genero, masculino).
+
+atributo(cinderella, especie, humano).
+atributo(cinderella, es_villano, no).
+atributo(cinderella, es_protagonista, si).
+atributo(cinderella, color_pelo, rubio).
+atributo(cinderella, pelo, largo).
+atributo(cinderella, es_magico, no).
+atributo(cinderella, color_vestimenta, azul).
+atributo(cinderella, vive_en, castillo).
+atributo(cinderella, genero, femenino).
+
+atributo(fairy_godmother, especie, ser_magico).
+atributo(fairy_godmother, es_villano, no).
+atributo(fairy_godmother, es_protagonista, no).
+atributo(fairy_godmother, color_pelo, gris).
+atributo(fairy_godmother, pelo, corto).
+atributo(fairy_godmother, es_magico, si).
+atributo(fairy_godmother, color_vestimenta, morado).
+atributo(fairy_godmother, vive_en, otro).
+atributo(fairy_godmother, genero, femenino).
+
+atributo(jaq, especie, animal).
+atributo(jaq, es_villano, no).
+atributo(jaq, es_protagonista, no).
+atributo(jaq, color_pelo, cafe).
+atributo(jaq, pelo, corto).
+atributo(jaq, es_magico, no).
+atributo(jaq, color_vestimenta, rojo).
+atributo(jaq, vive_en, castillo).
+atributo(jaq, genero, masculino).
+
+atributo(gus, especie, animal).
+atributo(gus, es_villano, no).
+atributo(gus, es_protagonista, no).
+atributo(gus, color_pelo, cafe).
+atributo(gus, pelo, corto).
+atributo(gus, es_magico, no).
+atributo(gus, color_vestimenta, verde).
+atributo(gus, vive_en, castillo).
+atributo(gus, genero, masculino).
+
+atributo(dumbo, especie, animal).
+atributo(dumbo, es_villano, no).
+atributo(dumbo, es_protagonista, si).
+atributo(dumbo, color_pelo, ninguno).
+atributo(dumbo, pelo, sin_pelo).
+atributo(dumbo, es_magico, no).
+atributo(dumbo, color_vestimenta, na).
+atributo(dumbo, vive_en, otro).
+atributo(dumbo, genero, masculino).
+
+atributo(hercules, especie, humano).
+atributo(hercules, es_villano, no).
+atributo(hercules, es_protagonista, si).
+atributo(hercules, color_pelo, naranja).
+atributo(hercules, pelo, corto).
+atributo(hercules, es_magico, no).
+atributo(hercules, color_vestimenta, naranja).
+atributo(hercules, vive_en, otro).
+atributo(hercules, genero, masculino).
+
+atributo(pegasus, especie, ser_magico).
+atributo(pegasus, es_villano, no).
+atributo(pegasus, es_protagonista, no).
+atributo(pegasus, color_pelo, azul).
+atributo(pegasus, pelo, corto).
+atributo(pegasus, es_magico, si).
+atributo(pegasus, color_vestimenta, blanco).
+atributo(pegasus, vive_en, otro).
+atributo(pegasus, genero, masculino).
+
+atributo(meg, especie, humano).
+atributo(meg, es_villano, no).
+atributo(meg, es_protagonista, si).
+atributo(meg, color_pelo, cafe).
+atributo(meg, pelo, largo).
+atributo(meg, es_magico, no).
+atributo(meg, color_vestimenta, morado).
+atributo(meg, vive_en, otro).
+atributo(meg, genero, femenino).
+
+atributo(phil, especie, ser_magico).
+atributo(phil, es_villano, no).
+atributo(phil, es_protagonista, no).
+atributo(phil, color_pelo, naranja).
+atributo(phil, pelo, sin_pelo).
+atributo(phil, es_magico, no).
+atributo(phil, color_vestimenta, na).
+atributo(phil, vive_en, otro).
+atributo(phil, genero, masculino).
+
+atributo(quasimodo, especie, humano).
+atributo(quasimodo, es_villano, no).
+atributo(quasimodo, es_protagonista, si).
+atributo(quasimodo, color_pelo, rojo).
+atributo(quasimodo, pelo, corto).
+atributo(quasimodo, es_magico, no).
+atributo(quasimodo, color_vestimenta, verde).
+atributo(quasimodo, vive_en, ciudad).
+atributo(quasimodo, genero, masculino).
+
+atributo(esmeralda, especie, humano).
+atributo(esmeralda, es_villano, no).
+atributo(esmeralda, es_protagonista, si).
+atributo(esmeralda, color_pelo, negro).
+atributo(esmeralda, pelo, largo).
+atributo(esmeralda, es_magico, no).
+atributo(esmeralda, color_vestimenta, blanco).
+atributo(esmeralda, vive_en, ciudad).
+atributo(esmeralda, genero, femenino).
+
+atributo(mr_incredible, especie, humano).
+atributo(mr_incredible, es_villano, no).
+atributo(mr_incredible, es_protagonista, si).
+atributo(mr_incredible, color_pelo, rubio).
+atributo(mr_incredible, pelo, corto).
+atributo(mr_incredible, es_magico, si).
+atributo(mr_incredible, color_vestimenta, rojo).
+atributo(mr_incredible, vive_en, ciudad).
+atributo(mr_incredible, genero, masculino).
+
+atributo(elastigirl, especie, humano).
+atributo(elastigirl, es_villano, no).
+atributo(elastigirl, es_protagonista, si).
+atributo(elastigirl, color_pelo, cafe).
+atributo(elastigirl, pelo, corto).
+atributo(elastigirl, es_magico, si).
+atributo(elastigirl, color_vestimenta, rojo).
+atributo(elastigirl, vive_en, ciudad).
+atributo(elastigirl, genero, femenino).
+
+atributo(violet, especie, humano).
+atributo(violet, es_villano, no).
+atributo(violet, es_protagonista, si).
+atributo(violet, color_pelo, negro).
+atributo(violet, pelo, largo).
+atributo(violet, es_magico, si).
+atributo(violet, color_vestimenta, rojo).
+atributo(violet, vive_en, ciudad).
+atributo(violet, genero, femenino).
+
