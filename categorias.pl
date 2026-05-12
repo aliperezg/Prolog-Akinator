@@ -46,6 +46,7 @@ valor_valido(color_vestimenta, na).
 
 valor_valido(vive_en,castillo).
 valor_valido(vive_en,bosque).
+valor_valido(vive_en,selva).
 valor_valido(vive_en,mar).
 valor_valido(vive_en,ciudad).
 valor_valido(vive_en,desierto).
@@ -57,6 +58,9 @@ valor_valido(genero,masculino).
 valor_valido(genero,femenino).
 valor_valido(genero,na).
 
+valor_valido(habla,si).
+valor_valido(habla,no).
+
 % Lista de atributos en orden de pregunta
 atributo(especie).
 atributo(es_villano).
@@ -67,6 +71,7 @@ atributo(es_magico).
 atributo(color_vestimenta).
 atributo(vive_en).
 atributo(genero).
+atributo(habla).
 
 % Plantillas de preguntas (el {valor} se reemplaza dinámicamente)
 plantilla_pregunta(especie, "¿Tu personaje es {valor}?").
@@ -78,3 +83,9 @@ plantilla_pregunta(es_magico, "¿Tu personaje es mágico?").
 plantilla_pregunta(color_vestimenta, "¿Tu personaje viste de {valor}?").
 plantilla_pregunta(vive_en, "¿Tu personaje vive en {valor}?").
 plantilla_pregunta(genero, "¿Tu personaje es {valor}?").
+plantilla_pregunta(habla, "¿Tu personaje habla?").
+
+% Plantillas para cuando el valor es 'na' (no aplica)
+plantilla_na(color_vestimenta, "¿Tu personaje no usa ropa?").
+plantilla_na(genero, "¿Tu personaje no tiene género definido?").
+plantilla_na(color_pelo, "¿Tu personaje no tiene pelo?").

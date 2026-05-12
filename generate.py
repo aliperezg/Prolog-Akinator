@@ -51,7 +51,8 @@ VALID = {
 
     "vive_en": {
         "castillo", 
-        "bosque", 
+        "bosque",
+        "selva",
         "mar", 
         "ciudad", 
         "desierto", 
@@ -65,6 +66,8 @@ VALID = {
         "femenino", 
         "na"
         },
+
+    "habla": {"si", "no"},
 }
 
 COLUMNAS = {"nombre"} | VALID.keys()
